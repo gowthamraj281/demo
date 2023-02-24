@@ -1,9 +1,0 @@
-using system;
-
-namespace pro {
-
-class name {
-
-static void main (string[] args) {
-
-}
